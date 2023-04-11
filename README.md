@@ -1,24 +1,31 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
 
+# 👋 Welcome!
 
-As a developer, here are 10 common missing knowledge about Github:
+{% hint style="info" %}
+**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+{% endhint %}
 
-1.  Understanding the difference between Git and Github: Git is a version control system, while Github is a hosting platform for Git repositories.
-    
-2.  Knowing how to create and manage branches: Branches allow developers to work on different features or versions of a project simultaneously, and merge changes back into the main codebase.
-    
-3.  Familiarity with pull requests: Pull requests are a way to propose changes to a codebase and to review and discuss those changes with other contributors.
-    
-4.  Understanding how to resolve merge conflicts: Merge conflicts occur when two or more people make changes to the same file, and Github needs help deciding which changes to keep.
-    
-5.  Knowing how to use issues and labels: Issues and labels help manage and organize work on a project by tracking bugs, feature requests, and other tasks.
-    
-6.  Knowing how to use Github Actions: Github Actions allow developers to automate tasks, such as testing and deploying code, using workflows.
-    
-7.  Understanding how to collaborate with others on Github: Collaborating on Github involves understanding how to fork a repository, make changes, and create pull requests.
-    
-8.  Knowing how to use Github Pages: Github Pages allows developers to host static websites and showcase their work.
-    
-9.  Understanding how to use Github's search feature: Github's search feature allows developers to find code, issues, and other content on the platform.
-    
-10.  Knowing how to use Github's API: Github's API allows developers to programmatically access and interact with Github data, such as repositories, issues, and pull requests.
-    
+For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
+
+For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+
+<details>
+
+<summary>How to use it?</summary>
+
+This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
+
+</details>
+
+<details>
+
+<summary>Contributing</summary>
+
+If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
+
+</details>
